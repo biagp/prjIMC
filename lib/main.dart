@@ -35,6 +35,7 @@ class _MyHomePageState extends State<MyHomePage> {
     return new Scaffold(
       appBar: new AppBar(
         title: new Text('Cálculo do I.M.C'),
+        <h2>olá<h2>
       ),
       body: new Column(
           mainAxisAlignment: MainAxisAlignment.start,
